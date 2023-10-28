@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shaurya </title>
+      <header>
+        <h1>Shaurya Upadhayay</h1>
+        <p>6th Grade, Class A3</p>
+        <p>B.S Dynamic Academy</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello, I'm Shaurya Upadhayay, a 6th-grade student at B.S Dynamic Academy. I was born on 28th Feb 2012 in Kasganj, UP, India, and I live beside the forest office.</p>
+        </section>
+        <section id="skills">
+            <h2>My Skills</h2>
+            <ul>
+                <li>UI Designing</li>
+                <li>Coding (JavaScript)</li>
+                <li>Gaming</li>
+                <li>CSS</li>
+                <!-- Add more skills if needed -->
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="shauryau054@gmail.com">shauryau054@gmail.com</a></p>
+            <p>Email: <a href="bstoppers@outlook.com">bstoppers@outlook.com</a></p>
+            <p>Instagram: <a href="https://www.instagram.com/Shaurya.Real69" target="_blank">Shaurya.Real69</a></p>
+            <p>YouTube: <a href="https://www.youtube.com/c/SteelByte_Gaming" target="_blank">SteelByte_Gaming</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Shaurya Upadhayay</p>
+    </footer>
+</body>
+</html>
